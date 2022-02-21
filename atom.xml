@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Op184.github.io</id>
     <title>第二圆舞曲</title>
-    <updated>2022-02-21T05:26:12.551Z</updated>
+    <updated>2022-02-21T14:58:01.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Op184.github.io"/>
     <link rel="self" href="https://Op184.github.io/atom.xml"/>
@@ -10,6 +10,38 @@
     <logo>https://Op184.github.io/images/avatar.png</logo>
     <icon>https://Op184.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 第二圆舞曲</rights>
+    <entry>
+        <title type="html"><![CDATA[红楼梦]]></title>
+        <id>https://Op184.github.io/post/hong-lou-meng/</id>
+        <link href="https://Op184.github.io/post/hong-lou-meng/">
+        </link>
+        <updated>2022-02-21T14:44:27.000Z</updated>
+        <content type="html"><![CDATA[<p>历史在夜晚背过身来<br>
+石头的眼泪与过客<br>
+在夜晚不安响起的佩环<br>
+黑暗中压抑的性感</p>
+<p>有关梦想的折扇<br>
+孔雀一样打开自己<br>
+从内部燃烧的欲望<br>
+吞噬所有的情意</p>
+<p>从深的深处<br>
+埋葬的桃花<br>
+与倒影中的笑靥<br>
+消失于伏案一梦<br>
+唯有冷汗<br>
+让夏日的正午<br>
+感受彻骨的寒意</p>
+<p>关于你的秘密<br>
+我从未写在风里<br>
+当秋风卷走繁华<br>
+扯去铜镜青丝<br>
+翻开陈年的诗稿<br>
+有关你的故事<br>
+与你的消逝<br>
+在某处安然无恙</p>
+<p><em>2021</em></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[短歌集（海涅的黎明）]]></title>
         <id>https://Op184.github.io/post/duan-ge-ji-hai-nie-de-li-ming/</id>
