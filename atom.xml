@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Op184.github.io</id>
     <title>第二圆舞曲</title>
-    <updated>2022-02-23T05:00:38.838Z</updated>
+    <updated>2022-02-25T04:11:42.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Op184.github.io"/>
     <link rel="self" href="https://Op184.github.io/atom.xml"/>
@@ -10,6 +10,47 @@
     <logo>https://Op184.github.io/images/avatar.png</logo>
     <icon>https://Op184.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 第二圆舞曲</rights>
+    <entry>
+        <title type="html"><![CDATA[雨中]]></title>
+        <id>https://Op184.github.io/post/yu-zhong/</id>
+        <link href="https://Op184.github.io/post/yu-zhong/">
+        </link>
+        <updated>2022-02-25T04:07:36.000Z</updated>
+        <content type="html"><![CDATA[<p><em>献给zwx</em></p>
+<p>我走过隧道的时候<br>
+整个上海都在下雨<br>
+在雨中盘旋的神鹰<br>
+在三声钟后心碎。</p>
+<p>蚂蚁背负着路灯<br>
+寻找失落的雪原<br>
+在雨点和汽车尾管<br>
+的间歇温暖之间<br>
+水洼像硬币一样闪光。</p>
+<p>而那艘来自深海的巨轮<br>
+已经从城市楼之间浮起<br>
+人们迅速生离死别，出现又消逝<br>
+像是它那受诅咒的船舷<br>
+在永恒的更迭和行进中<br>
+打碎物质的镜面。</p>
+<p>即使我充满虔诚地<br>
+手捧玫瑰和火焰<br>
+也无法点燃那些<br>
+被邮票打湿的嘴唇<br>
+那些高高的飞鸟和天国的风<br>
+盲目的荆棘和锈蚀的耳环<br>
+也许都找不到归路。</p>
+<p>我为蚂蚁吹响号角<br>
+滴滴滴滴嘟嘟——<br>
+他们汇聚，如河边的陶片<br>
+和牙齿倒映的篝火<br>
+他们的脸庞在雨水的映照下<br>
+像一颗颗坚硬的恐龙蛋。<br>
+我看见其中孵育温暖的西藏：<br>
+那是星星熄灭的山丘。<br>
+那是雨水停滞的山丘。</p>
+<p><em>2021.5.16</em></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[麦子（或福音）]]></title>
         <id>https://Op184.github.io/post/mai-zi-huo-fu-yin/</id>
